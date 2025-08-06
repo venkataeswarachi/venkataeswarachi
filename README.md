@@ -9,7 +9,8 @@
 ---
 
 ## 🚀 About Me
-🎓 Final-year B.Tech in CSE (AI & ML) @ VVIT (CGPA: 8.9) 
+🎓 Final-year B.Tech in CSE (AI & ML) @ VVIT (CGPA: 8.9)
+
 🔭 Currently building a **** using Flask, JS & MediaPipe  
 🌱 Exploring AI/ML, Web Development, Open Source 
 👨‍💻 Passionate about tech, personal projects & coding challenges  
