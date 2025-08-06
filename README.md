@@ -107,7 +107,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Eswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoj-krishna-chandragiri&show_icons=true&theme=tokyonight)  
+![Eswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkataeswarachi&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkataeswarachi&layout=compact&theme=tokyonight)
 
 ### 🔥 GitHub Streak
@@ -138,4 +138,4 @@
 
 ---
 
-⭐️ From [Manoj Krishna Chandragiri](https://github.com/venkataeswarachi)
+⭐️ From [Venkata Eswar Achi](https://github.com/venkataeswarachi)
