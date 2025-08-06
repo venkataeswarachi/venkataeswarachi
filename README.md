@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-🎓 Final-year B.Tech in CSE (AI & ML) @ VVIT (CGPA: 8.9)
+🎓 Final-year B.Tech in CSE (AI & ML) @ VVIT (CGPA: 8.9)      
 🔭 Currently building a **** using Flask, JS & MediaPipe  
 🌱 Exploring AI/ML, Web Development, Open Source 
 👨‍💻 Passionate about tech, personal projects & coding challenges  
@@ -63,9 +63,16 @@
 ---
 
 ## 💼 Experience
-- ☁️ **Google Virtual Internships** (Android & AI/ML Tracks)  
-- 🌐 **Open Source Contributor** — actively working on GitHub repositories  
-- 🧪 **Academic & Personal Research Projects** involving ML & Full-Stack development  
+
+- 🧠 *Collaborator @ [WikiTech Initiative](https://github.com/indictechcom/community-insights-dashboard-tooling) (by Wikimedia Team)*  
+  Contributing to the design and development of a collaborative open-source project focused on knowledge sharing and community-driven tools. Actively involved in planning, coding, and feature rollout with Wikimedia contributors.
+
+- 🌐 *Open Source Contributor*  
+  Actively contributing to GitHub repositories — fixing bugs, building features, reviewing pull requests, and engaging with developer communities across various projects.
+
+- 🧪 *Academic & Personal Research Projects*  
+  Working on machine learning models, full-stack web applications, and automation tools as part of academic and self-initiated projects.
+
 
 ---
 
